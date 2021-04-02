@@ -1,0 +1,2 @@
+*.trk filter=lfs diff=lfs merge=lfs -text
+*.miz filter=lfs diff=lfs merge=lfs -text

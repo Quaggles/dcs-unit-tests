@@ -35,4 +35,16 @@ payloads = {
             [3] = {["CLSID"] = "{LAU-115 - AIM-7H}",},
         }
     },
+    ["AIM-7P Cheek"] = {
+        ["pylons"] = {
+            [6] = {["CLSID"] = "{AIM-7P}",},
+            [4] = {["CLSID"] = "{AIM-7P}",},
+        }
+    },
+    ["AIM-7P Wing"] = {
+        ["pylons"] = {
+            [7] = {["CLSID"] = "{LAU-115 - AIM-7P}",},
+            [3] = {["CLSID"] = "{LAU-115 - AIM-7P}",},
+        }
+    },
 }

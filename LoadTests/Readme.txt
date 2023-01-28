@@ -1,0 +1,1 @@
+Tracks beginning with "LoadTest." are used to determine if a module can be loaded as a player aircraft correctly in the sim, if this fails all tests using this aircraft will automatically be marked as failed to save time

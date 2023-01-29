@@ -1,1 +1,3 @@
 Tracks beginning with "LoadTest." are used to determine if a module can be loaded as a player aircraft correctly in the sim, if this fails all tests using this aircraft will automatically be marked as failed to save time
+
+These missions are generated from template files ".base.*.trk" which feeds in the aircraft types from PlayableAircraftTypes.lua and PlayableHelicoptersTypes.lua using CreateMissionsFromTemplates.ps1 in the dcs-unit-tester repository

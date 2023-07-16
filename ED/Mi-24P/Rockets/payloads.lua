@@ -162,3 +162,4 @@ payloads = {
 --["CLSID"] = "{UB-32A-24}" --S5KO
 --["CLSID"] = "{6A4B9E69-64FE-439a-9163-3A87FB6A4D81}" --S-8-KOM
 --["CLSID"] = "B_8V20A_OFP2" --S-8OFP2
+--["CLSID"] = "B_8V20A_CM --S-8TsM Orange Smoke

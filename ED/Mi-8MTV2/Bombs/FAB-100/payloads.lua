@@ -1,4 +1,4 @@
-function Inner(clsid)
+local function Inner(clsid)
     return {
         ["pylons"] = {
             [3] = {["CLSID"] = clsid},
@@ -6,7 +6,7 @@ function Inner(clsid)
         }
     }
 end
-function Mid(clsid)
+local function Mid(clsid)
     return {
         ["pylons"] = {
             [2] = {["CLSID"] = clsid},
@@ -14,7 +14,7 @@ function Mid(clsid)
         }
     }
 end
-function Outer(clsid)
+local function Outer(clsid)
     return {
         ["pylons"] = {
             [1] = {["CLSID"] = clsid},

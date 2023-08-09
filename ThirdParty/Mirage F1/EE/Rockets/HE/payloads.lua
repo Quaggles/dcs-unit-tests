@@ -17,12 +17,6 @@ payloads = {
 			[3] = {["CLSID"] = "{MATRA_F1_SNEBT256}",},
         }
     },
-	["MF1-259E"] = {
-        ["pylons"] = {
-            [5] = {["CLSID"] = "{MATRA_F1_SNEBT259E}",},
-			[3] = {["CLSID"] = "{MATRA_F1_SNEBT259E}",},
-        }
-    },
 	["MF4-251"] = {
         ["pylons"] = {
             [5] = {["CLSID"] = "{MATRA_F4_SNEBT251}",},

@@ -4,12 +4,12 @@ payloads = {
             [9] = {["CLSID"] = "LAU_117_AGM_65H",},
         }
     },
-	["AGM-65H x1 LAU-88"] = {
+	["AGM-65H x1 LAU-88.regression"] = {
         ["pylons"] = {
             [9] = {["CLSID"] = "LAU_88_AGM_65H",},
         }
     },
-	["AGM-65H x2 LAU-88"] = {
+	["AGM-65H x2 LAU-88.regression"] = {
         ["pylons"] = {
             [9] = {["CLSID"] = "LAU_88_AGM_65H_2_R",},
         }

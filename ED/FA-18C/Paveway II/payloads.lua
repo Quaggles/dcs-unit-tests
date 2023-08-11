@@ -1,5 +1,5 @@
 payloads = {
-    ["GBU-12 x 2"] = {
+    ["GBU-12 x 2.regression"] = {
         ["pylons"] = {
             [3] = {["CLSID"] = "{BRU33_2X_GBU-12}",},
             [7] = {["CLSID"] = "{BRU33_2X_GBU-12}",},

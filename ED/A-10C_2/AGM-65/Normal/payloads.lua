@@ -4,12 +4,12 @@ payloads = {
             [9] = {["CLSID"] = "{444BA8AE-82A7-4345-842E-76154EFCCA46}",},
         }
     },
-	["AGM-65D x1 LAU-88"] = {
+	["AGM-65D x1 LAU-88.regression"] = {
         ["pylons"] = {
             [9] = {["CLSID"] = "LAU_88_AGM_65D_ONE",},
         }
     },
-	["AGM-65D x2 LAU-88"] = {
+	["AGM-65D x2 LAU-88.regression"] = {
         ["pylons"] = {
             [9] = {["CLSID"] = "{E6A6262A-CA08-4B3D-B030-E1A993B98452}",},
         }
@@ -24,12 +24,12 @@ payloads = {
             [9] = {["CLSID"] = "LAU_117_AGM_65H",},
         }
     },
-	["AGM-65H x1 LAU-88"] = {
+	["AGM-65H x1 LAU-88.regression"] = {
         ["pylons"] = {
             [9] = {["CLSID"] = "LAU_88_AGM_65H",},
         }
     },
-	["AGM-65H x2 LAU-88"] = {
+	["AGM-65H x2 LAU-88.regression"] = {
         ["pylons"] = {
             [9] = {["CLSID"] = "LAU_88_AGM_65H_2_R",},
         }

@@ -1,6 +1,6 @@
 
 payloads = {
-	 	["Mi-24_GUV-8700-30mm_Gren_out"] = {
+	 	["GUV-8700-30mm_Gren_out.regression"] = {
 			["pylons"] = {
 				[2] =
 	        		{
@@ -12,7 +12,7 @@ payloads = {
 	        		}, -- end of [5]
 			}
 		},
-	 	["Mi-24_GUV-8700-30mm_Gren_in"] = {
+	 	["GUV-8700-30mm_Gren_in"] = {
 			["pylons"] = {
 				[3] =
 	        		{
@@ -24,7 +24,7 @@ payloads = {
 	        		}, -- end of [4]
 			}
 		},
-	 	["Mi-24_GUV-8700-30mm_Gren_all"] = {
+	 	["GUV-8700-30mm_Gren_all.regression"] = {
 			["pylons"] = {
 				[2] =
 	        		{

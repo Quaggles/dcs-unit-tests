@@ -29,7 +29,7 @@ payloads = {
             [3] = {["CLSID"] = "{GBU-38}",},
         }
     },
-    ["GBU-38 x 2"] = {
+    ["GBU-38 x 2.regression"] = {
         ["pylons"] = {
             [3] = {["CLSID"] = "{BRU55_2*GBU-38}",},
         }

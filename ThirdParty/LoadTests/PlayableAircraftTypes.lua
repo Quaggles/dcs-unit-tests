@@ -16,4 +16,5 @@ types = {
     "MiG-21Bis",
     "Mirage-F1CE",
     "Mirage-F1EE",
+    "Mirage-F1BE",
 }

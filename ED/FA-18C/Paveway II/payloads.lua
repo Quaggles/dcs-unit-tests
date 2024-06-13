@@ -1,10 +1,11 @@
 
 settings = {
+    ["function_delay_ctrl_FMU152AB_LD"] = 0,
+    ["arm_delay_ctrl_FMU152AB_LD"] = 4,
+    ["NFP_VIS_DrawArgNo_55"] = 0.1,
+    ["NFP_fuze_type_tail"] = "FMU152AB_LD",
     ["NFP_VIS_DrawArgNo_57"] = 0,
-    ["arm_delay_ctrl_FMU139CB_LD"] = 4,
     ["laser_code"] = 1688,
-    ["function_delay_ctrl_FMU139CB_LD"] = 0,
-    ["NFP_fuze_type_tail"] = "FMU139CB_LD",
 }
 
 payloads = {

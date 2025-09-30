@@ -4,6 +4,8 @@ types = {
     "C-101CC",
     "C-101EB",
     "Christen Eagle II",
+    "F4U-1D",
+    "F4U-1D_CW",
     "F-4E-45MC",
     "F-14A-135-GR",
     "F-14B",

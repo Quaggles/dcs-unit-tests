@@ -3,6 +3,7 @@ types = {
     "AV8BNA",
     "C-101CC",
     "C-101EB",
+    "C-130J-30",
     "Christen Eagle II",
     "F4U-1D",
     "F4U-1D_CW",

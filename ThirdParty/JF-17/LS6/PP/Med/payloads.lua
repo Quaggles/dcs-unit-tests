@@ -14,15 +14,13 @@ payloads = {
 	["Dual LS6-250"] = {
         ["pylons"] = {
             [2] = {["CLSID"] = "DIS_LS_6_250_DUAL_L",},
-			[6] = {["CLSID"] = "DIS_LS_6_250_DUAL_L",},
+			[6] = {["CLSID"] = "DIS_LS_6_250_DUAL_R",},
         }
     },
 	["Dual LS6-100"] = {
         ["pylons"] = {
             [2] = {["CLSID"] = "DIS_LS_6_100_DUAL_L",},
-			[6] = {["CLSID"] = "DIS_LS_6_100_DUAL_L",},
+			[6] = {["CLSID"] = "DIS_LS_6_100_DUAL_R",},
         }
     },
 }
-
-

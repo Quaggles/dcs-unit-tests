@@ -5,10 +5,22 @@ payloads = {
             [7] = {["CLSID"] = "{AIM-9B}",},
         }
     },
+    ["AIM-9J"] = {
+        ["pylons"] = {
+            [1] = {["CLSID"] = "{AIM-9J}",},
+            [7] = {["CLSID"] = "{AIM-9J}",},
+        }
+    },
     ["AIM-9P"] = {
         ["pylons"] = {
             [1] = {["CLSID"] = "{9BFD8C90-F7AE-4e90-833B-BFD0CED0E536}",},
             [7] = {["CLSID"] = "{9BFD8C90-F7AE-4e90-833B-BFD0CED0E536}",},
+        }
+    },
+    ["AIM-9P3"] = {
+        ["pylons"] = {
+            [1] = {["CLSID"] = "{AIM-9P3}",},
+            [7] = {["CLSID"] = "{AIM-9P3}",},
         }
     },
     ["AIM-9P5"] = {

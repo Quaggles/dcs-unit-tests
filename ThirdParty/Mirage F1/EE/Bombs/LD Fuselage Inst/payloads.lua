@@ -1,9 +1,4 @@
 payloads = {
-    ["Beloga"] = {
-        ["pylons"] = {
-            [4] = {["CLSID"] = "{BLG66_BELOUGA}",},
-        }
-    },
     ["SAMP250LD"] = {
         ["pylons"] = {
             [4] = {["CLSID"] = "{SAMP250LD}",},
